@@ -63,7 +63,7 @@ body {
   font-size: 100%;
   font-family: 'Segoe UI', helvetica, arial, sans-serif;
   color: #0e3029;
-  line-height: 1.5rem;
+  /*line-height: 1.5rem;*/
   font-family: 'Roboto';
   font-weight: 300;
 }
@@ -721,7 +721,7 @@ a.btn.btn-mini:hover {
 }
 .post-content p,
 .post-content div {
-  padding: 12.5px 0;
+  padding: 2.5px 0;
   margin: 0;
 }
 .post-content p.gist,
@@ -970,7 +970,7 @@ div.posts div.item .post-content b {
 }
 div.posts div.item .post-content p,
 div.posts div.item .post-content div {
-  padding: 12.5px 0;
+  padding: 2.5px 0;
   margin: 0;
 }
 div.posts div.item .post-content p.gist,
