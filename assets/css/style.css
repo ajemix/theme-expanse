@@ -75,6 +75,7 @@ h4 {
   padding: 0 0 50px 0;
   font-family: 'Segoe UI';
   font-weight: 300;
+  text-align : center;
 }
 h1 {
   font-size: 3rem;
@@ -120,8 +121,8 @@ body {
   display: block;
   clear: both;
   margin: 0 auto;
-  width: 60%;
-  max-width: 1280px;
+  width: 80%;
+  max-width: 960px;
 }
 .container.wide {
   width: 80%;
