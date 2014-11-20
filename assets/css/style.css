@@ -51,7 +51,7 @@ a {
   color: #37cca2;
 }
 a:hover {
-  color: #0e3029;
+  color: #666;
 }
 .left {
   float: left;
@@ -62,16 +62,16 @@ a:hover {
 body {
   font-size: 100%;
   font-family: 'Segoe UI', helvetica, arial, sans-serif;
-  color: #0e3029;
-  /*line-height: 1.5rem;*/
+  color: #666;
   font-family: 'Segoe UI';
   font-weight: 300;
+  background-color : #F1F1F1;
 }
 h1,
 h2,
 h3,
 h4 {
-  color: #0e3029;
+  color: #666;
   padding: 0 0 50px 0;
   font-family: 'Segoe UI';
   font-weight: 300;
@@ -91,7 +91,7 @@ h3 {
 a {
   cursor: pointer;
   text-decoration: none;
-  color: #0e3029;
+  color: #666;
 }
 a:hover {
   color: #37cca2;
@@ -628,13 +628,13 @@ a.btn {
 }
 button:hover,
 a.btn:hover {
-  background-color: #0e3029;
+  background-color: #666;
 }
 button.btn-mini,
 a.btn.btn-mini {
   padding: 7px 14px 7px 14px;
   font-size: 0.75rem;
-  background-color: #0e3029;
+  background-color: #666;
 }
 button.btn-mini:hover,
 a.btn.btn-mini:hover {
@@ -643,7 +643,7 @@ a.btn.btn-mini:hover {
 .post {
   display: block;
   clear: both;
-  padding: 125px 0 0 0;
+  padding: 125px 40px 40px 40px;
 }
 .post a {
   text-decoration: none;
@@ -1116,10 +1116,10 @@ div.posts h3 {
   font-size: 2.25rem;
   font-family: 'Segoe UI';
   font-weight: 300;
-  color: #0e3029;
+  color: #666;
 }
 div.posts h3 a {
-  color: #0e3029;
+  color: #666;
 }
 div.posts h3 a:hover {
   color: #37cca2;
