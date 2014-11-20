@@ -644,6 +644,7 @@ a.btn.btn-mini:hover {
   display: block;
   clear: both;
   padding: 125px 40px 40px 40px;
+  background-color : #fff;
 }
 .post a {
   text-decoration: none;
